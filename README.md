@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 <p align="center">
-  <img src="big_o_cheat_sheet.png" alt="Big O Complexity Visualization" width="800">
+  <img src="chapter_01_binary_search/big_o_cheat_sheet.png" alt="Big O Complexity Visualization" width="800">
 </p>
 
 ## 📚 Introduction
@@ -56,15 +56,15 @@ The repository explores various time complexities:
 - **O(n²)**, **O(n log n)**, etc. - Visualization of other complexities
 
 <p align="center">
-  <img src="big_o_complexity.png" alt="Big O Complexity Analysis" width="800">
+  <img src="chapter_01_binary_search/big_o_complexity.png" alt="Big O Complexity Analysis" width="800">
 </p>
 
 <p align="center">
-  <img src="binary_search_steps.png" alt="Binary Search Steps" width="800">
+  <img src="chapter_01_binary_search/binary_search_steps.png" alt="Binary Search Steps" width="800">
 </p>
 
 <p align="center">
-  <img src="normalized_complexity.png" alt="Normalized Complexity" width="800">
+  <img src="chapter_01_binary_search/normalized_complexity.png" alt="Normalized Complexity" width="800">
 </p>
 
 ### 3. Questions Addressed
