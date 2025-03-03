@@ -9,8 +9,8 @@ This module demonstrates the concepts from Chapter 3 of "Grokking Algorithms":
 4. Solving classic problems using recursion
 5. Base cases and recursive cases
 
-Author: [Your Name]
-GitHub: [Your GitHub Username]
+Author: Petar Matov
+GitHub: petar1998
 """
 
 import sys
